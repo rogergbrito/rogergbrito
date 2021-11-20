@@ -1,4 +1,4 @@
-- 👋 Oi, meu nome é Roger de Brito 
+- 👋 Olá, meu nome é Roger de Brito 
 - ❤️ Apaixonado por tecnologia.
 - 🎩 Cursando Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou estudando Python language.
