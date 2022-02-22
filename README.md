@@ -1,9 +1,8 @@
-- 👋 Olá, meu nome é Roger de Brito 
+- 👋 Olá, meu nome é Roger
 - ❤️ Apaixonado por tecnologia.
 - 🎩 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou estudando Python language.
-- 💞️ Estou à procura de um Estágio na área de Sistemas.
-- 📫 Meu LinkedIn: https://www.linkedin.com/in/roger-brito-758191150/
+- 🌱 Aprendendo Python, HTML, CSS, JavaScript e mais um pouco de tudo.
+- 📫 LinkedIn: https://www.linkedin.com/in/roger-brito-758191150/
 
 
 <div>
