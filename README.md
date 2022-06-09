@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é Roger
 - ❤️ Apaixonado por tecnologia.
 - 🎩 Cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Aprendendo Python, HTML, CSS, JavaScript e mais um pouco de tudo.
+- 🌱 Em constante desenvolvimento em JS e Python.
 - 📫 LinkedIn: https://www.linkedin.com/in/roger-brito-758191150/
 
 
