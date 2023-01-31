@@ -3,6 +3,7 @@
 ``` 
 - Software development student.
 - Living in São Paulo, Brazil.
+- Enthusiast in technology.
 ```
 
 - ✉️ How to find me: roogerbrito1@gmail.com
