@@ -1,6 +1,4 @@
-<center>
 # Hello there 🖐️, I'm Roger!
-<center>
 
 ``` 
 - Software development student.
