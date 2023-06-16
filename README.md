@@ -23,7 +23,7 @@
 </a>
 
 ### Languages and Tools:
-<a href="https://www.javascript.com">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
 </a>
 <a href="https://www.typescriptlang.org">
