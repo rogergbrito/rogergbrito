@@ -14,7 +14,7 @@
 - ✉️ How to reach me: roogerbrito1@gmail.com
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/roger-brito-758191150/">
+<a href="https://www.linkedin.com/in/rogergbrito">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
 </a>
 
