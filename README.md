@@ -14,9 +14,12 @@
 - ✉️ How to reach me: roogerbrito1@gmail.com
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/rogergbrito">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
-</a>
+
+<div>
+<a href="https://instagram.com/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato@roogerbrito1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
