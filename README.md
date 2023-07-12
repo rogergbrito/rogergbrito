@@ -1,8 +1,5 @@
 <h1 align="center">Hello there 🖐️, I'm Roger!</h1>
 
-<h1 align="left"><img src="https://camo.githubusercontent.com/208f28ffe418c4f346881fbc583376fdcada6b4137ba38b0aa095ee7e8c29ca4/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d3641594f6c4b4952416e732f5759695a386c47664943492f414141414141414142546b2f6336667a71316d583237347a365036657145386f5969706754536c6c48654a3441434c63424741732f73313630302f70726f6772616d616e646f2e676966" width="230px"></h1>
-
-
 - 💻 Back-end Developer (Node.js).
 
 - ⌨️ Enthusiast in technology.
@@ -11,14 +8,14 @@
 
 - 🌱 I’m currently learning **Automated Testing with Jest**.
 
-- ✉️ How to reach me: roogerbrito1@gmail.com
-
 ### Connect with me:
 
+<img align="right" src="https://camo.githubusercontent.com/208f28ffe418c4f346881fbc583376fdcada6b4137ba38b0aa095ee7e8c29ca4/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d3641594f6c4b4952416e732f5759695a386c47664943492f414141414141414142546b2f6336667a71316d583237347a365036657145386f5969706754536c6c48654a3441434c63424741732f73313630302f70726f6772616d616e646f2e676966" width="230px">
+
 <div>
+<a href="https://www.linkedin.com/in/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:contato@roogerbrito1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ### Languages and Tools:
@@ -49,15 +46,3 @@
 <a href="https://www.mysql.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/>
 </a>
-
-          
-          
-          
-          
-          
-          
-
-          
-          
-          
-
