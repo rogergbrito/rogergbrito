@@ -6,8 +6,6 @@
 
 - 🏠 Living in São Paulo, Brazil.
 
-- 🌱 I’m currently learning **Automated Testing with Jest**.
-
 - 📫 How to reach me: roogerbrito1@gmail.com
 
 
