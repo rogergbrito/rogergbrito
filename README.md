@@ -20,29 +20,35 @@
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40px"/>
 </a>
 <a href="https://www.typescriptlang.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="40px"/>
 </a>
 <a href="https://nodejs.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
 </a>
 <a href="https://www.mongodb.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40px"/>
 </a>
 <a href="https://expressjs.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40px"/>
 </a>
 <a href="https://git-scm.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40px"/>
 </a>
 <a href="https://www.docker.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40px"/>
 </a>
 <a href="https://www.linux.org">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40px"/>
 </a>
 <a href="https://www.mysql.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40px"/>
+</a>
+<a href="https://www.postgresql.org/">
+  <img src="https://skillicons.dev/icons?i=postgres" width="40px"/>
+</a>
+<a href="https://aws.amazon.com/pt/">
+  <img src="https://skillicons.dev/icons?i=aws" width="40px"/>
 </a>
