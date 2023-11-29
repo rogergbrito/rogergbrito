@@ -1,10 +1,10 @@
 <h1 align="center">Hello there 🖐️, I'm Roger!</h1>
 
-- 💻 Back-end Developer (Node.js).
+- 💻 Back-end Developer
 
-- ⌨️ Enthusiast in technology.
+- ⌨️ Enthusiast in technology
 
-- 🏠 Living in São Paulo, Brazil.
+- 🏠 Living in São Paulo, Brazil
 
 - 📫 How to reach me: roogerbrito1@gmail.com
 
