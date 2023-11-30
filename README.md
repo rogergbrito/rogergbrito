@@ -55,3 +55,6 @@
 <a href="https://aws.amazon.com/pt/">
   <img src="https://skillicons.dev/icons?i=aws" width="40px"/>
 </a>
+<a href="https://aws.amazon.com/pt/">
+  <img src="https://skillicons.dev/icons?i=redis" width="40px"/>
+</a>
