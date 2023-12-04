@@ -1,22 +1,16 @@
-<h1 align="center">Hello there 🖐️, I'm Roger!</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080=120&section=header"/>
 
-- 💻 Back-end Developer
-
-- ⌨️ Enthusiast in technology
-
-- 🏠 Living in São Paulo, Brazil
-
-- 📫 How to reach me: roogerbrito1@gmail.com
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+My+name+is+Roger;I'm+23+years+old;I'm+a+Back-end+Developer;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 ### Connect with me:
 
-<img align="right" src="https://camo.githubusercontent.com/208f28ffe418c4f346881fbc583376fdcada6b4137ba38b0aa095ee7e8c29ca4/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d3641594f6c4b4952416e732f5759695a386c47664943492f414141414141414142546b2f6336667a71316d583237347a365036657145386f5969706754536c6c48654a3441434c63424741732f73313630302f70726f6772616d616e646f2e676966" width="230px">
 
 <div>
 <a href="https://www.linkedin.com/in/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+<div align="center">
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -58,3 +52,16 @@
 <a href="https://redis.io/">
   <img src="https://skillicons.dev/icons?i=redis" width="40px"/>
 </a>
+
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogergbrito&bg_color=0d1117&color=C0C0C0&line=D3D3D3&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{rogergbrito}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080=120&section=footer"/>
