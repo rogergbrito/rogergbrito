@@ -2,15 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+My+name+is+Roger;I'm+23+years+old;I'm+a+Back-end+Developer;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
-### Connect with me:
-
-
-<div>
-<a href="https://www.linkedin.com/in/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
 <div align="center">
+
+<br>
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
@@ -55,11 +50,22 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+### Connect with me:
+<a href="https://www.linkedin.com/in/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/rogergbrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+</div>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rogergbrito&bg_color=0d1117&color=C0C0C0&line=D3D3D3&point=ADD8E6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+
+### Visitors Count 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{rogergbrito}/count.svg" /></p> 
 <br>
 </div>
