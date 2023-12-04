@@ -12,40 +12,40 @@
   <img margin= "right" src="https://skillicons.dev/icons?i=javascript" width="40px"/>
 </a>
 <a href="https://www.typescriptlang.org">
-  <img src="https://skillicons.dev/icons?i=typescript" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=typescript" width="40px"/>
 </a>
 <a href="https://nodejs.org">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
 </a>
 <a href="https://expressjs.com">
-  <img src="https://skillicons.dev/icons?i=express" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=express" width="40px"/>
 </a>
 <a href="https://www.mongodb.com">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=mongodb" width="40px"/>
 </a>
 <a href="https://www.mysql.com">
-  <img src="https://skillicons.dev/icons?i=mysql" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=mysql" width="40px"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img src="https://skillicons.dev/icons?i=postgres" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=postgres" width="40px"/>
 </a>
 <a href="https://www.prisma.io">
-  <img src="https://skillicons.dev/icons?i=prisma" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=prisma" width="40px"/>
 </a>
 <a href="https://git-scm.com">
-  <img src="https://skillicons.dev/icons?i=git" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=git" width="40px"/>
 </a>
 <a href="https://www.docker.com">
-  <img src="https://skillicons.dev/icons?i=docker" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=docker" width="40px"/>
 </a>
 <a href="https://www.linux.org">
-  <img src="https://skillicons.dev/icons?i=linux" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=linux" width="40px"/>
 </a>
 <a href="https://aws.amazon.com/pt/">
-  <img src="https://skillicons.dev/icons?i=aws" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=aws" width="40px"/>
 </a>
 <a href="https://redis.io/">
-  <img src="https://skillicons.dev/icons?i=redis" width="40px"/>
+  <img margin= "right" src="https://skillicons.dev/icons?i=redis" width="40px"/>
 </a>
 
 </div>
