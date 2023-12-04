@@ -21,6 +21,7 @@
 [<img src="https://skillicons.dev/icons?i=linux" width="40px" />](https://www.linux.org)
 [<img src="https://skillicons.dev/icons?i=aws" width="40px" />](https://aws.amazon.com/pt/)
 [<img src="https://skillicons.dev/icons?i=redis" width="40px" />](https://redis.io/)
+[<img src="https://skillicons.dev/icons?i=postman" width="40px" />](https://www.postman.com/)
 
 </div>
 
