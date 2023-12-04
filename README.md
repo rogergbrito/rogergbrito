@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+My+name+is+Roger;I'm+23+years+old;I'm+a+Back-end+Developer;Be+Welcome!+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+my+name+is+Roger;I'm+23+years+old;I'm+a+Back-end+Developer;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -9,43 +9,43 @@
 
 ### Languages and Tools:
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-  <img margin= "right" src="https://skillicons.dev/icons?i=javascript" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="40px"/>
 </a>
 <a href="https://www.typescriptlang.org">
-  <img margin= "right" src="https://skillicons.dev/icons?i=typescript" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=typescript" width="40px"/>
 </a>
 <a href="https://nodejs.org">
-  <img margin= "right" src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40px"/>
 </a>
 <a href="https://expressjs.com">
-  <img margin= "right" src="https://skillicons.dev/icons?i=express" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40px"/>
 </a>
 <a href="https://www.mongodb.com">
-  <img margin= "right" src="https://skillicons.dev/icons?i=mongodb" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40px"/>
 </a>
 <a href="https://www.mysql.com">
-  <img margin= "right" src="https://skillicons.dev/icons?i=mysql" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40px"/>
 </a>
 <a href="https://www.postgresql.org/">
-  <img margin= "right" src="https://skillicons.dev/icons?i=postgres" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40px"/>
 </a>
 <a href="https://www.prisma.io">
-  <img margin= "right" src="https://skillicons.dev/icons?i=prisma" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="40px"/>
 </a>
 <a href="https://git-scm.com">
-  <img margin= "right" src="https://skillicons.dev/icons?i=git" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40px"/>
 </a>
 <a href="https://www.docker.com">
-  <img margin= "right" src="https://skillicons.dev/icons?i=docker" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40px"/>
 </a>
 <a href="https://www.linux.org">
-  <img margin= "right" src="https://skillicons.dev/icons?i=linux" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40px"/>
 </a>
 <a href="https://aws.amazon.com/pt/">
-  <img margin= "right" src="https://skillicons.dev/icons?i=aws" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40px"/>
 </a>
 <a href="https://redis.io/">
-  <img margin= "right" src="https://skillicons.dev/icons?i=redis" width="40px"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="40px"/>
 </a>
 
 </div>
