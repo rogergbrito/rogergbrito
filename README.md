@@ -11,6 +11,7 @@
 [<img src="https://skillicons.dev/icons?i=javascript" width="40px" />](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img src="https://skillicons.dev/icons?i=typescript" width="40px" />](https://www.typescriptlang.org)
 [<img src="https://skillicons.dev/icons?i=nodejs" width="40px" />](https://nodejs.org)
+[<img src="https://skillicons.dev/icons?i=python" width="40px" />](https://www.python.org/)
 [<img src="https://skillicons.dev/icons?i=express" width="40px" />](https://expressjs.com)
 [<img src="https://skillicons.dev/icons?i=mongodb" width="40px" />](https://www.mongodb.com)
 [<img src="https://skillicons.dev/icons?i=mysql" width="40px" />](https://www.mysql.com)
