@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+my+name+is+Roger;I'm+24+years+old;I'm+a+Back-end+Developer;Be+Welcome!+=%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCDCDC&size=35&center=true&vCenter=true&width=1000&lines=Hello+there,+my+name+is+Roger;I'm+a+Back-end+Developer;Be+Welcome!+=%29)](https://git.io/typing-svg)
 
 
 <div align="center">
@@ -23,6 +23,7 @@
 [<img src="https://skillicons.dev/icons?i=aws" width="40px" />](https://aws.amazon.com/pt/)
 [<img src="https://skillicons.dev/icons?i=terraform" width="40px" />](https://www.terraform.io/)
 [<img src="https://skillicons.dev/icons?i=redis" width="40px" />](https://redis.io/)
+[<img src="https://skillicons.dev/icons?i=rabbitmq" width="40px" />](https://www.rabbitmq.com/)
 [<img src="https://skillicons.dev/icons?i=postman" width="40px" />](https://www.postman.com/)
 
 </div>
