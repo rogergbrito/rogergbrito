@@ -24,6 +24,7 @@
 [<img src="https://skillicons.dev/icons?i=terraform" width="40px" />](https://www.terraform.io/)
 [<img src="https://skillicons.dev/icons?i=redis" width="40px" />](https://redis.io/)
 [<img src="https://skillicons.dev/icons?i=rabbitmq" width="40px" />](https://www.rabbitmq.com/)
+[<img src="https://skillicons.dev/icons?i=jest" width="40px" />](https://jestjs.io/pt-BR/)
 [<img src="https://skillicons.dev/icons?i=postman" width="40px" />](https://www.postman.com/)
 
 </div>
